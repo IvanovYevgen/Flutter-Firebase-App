@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433127871111",
+    "firebase_url": "https://yevhen-brew-crew.firebaseio.com",
+    "project_id": "yevhen-brew-crew",
+    "storage_bucket": "yevhen-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433127871111:android:ed6a32f79e738c732d9e22",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433127871111-5v7jiigdjucvdtuc19aqo84r4qe10b6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsnGBGjIi0mChyLcDhqojgWn7F1gwUa38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433127871111-5v7jiigdjucvdtuc19aqo84r4qe10b6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
